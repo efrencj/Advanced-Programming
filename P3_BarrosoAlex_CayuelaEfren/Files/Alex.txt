@@ -1,0 +1,5 @@
+Name: Alex, place of Origin: Barcelona, marital status: Single
+Name: Carme, place of Origin: Lleida, marital status: Widowed; 
+Name: Marta, place of Origin: Lleida, marital status: Divorced; ;
+Name: Joan, place of Origin: Girona, marital status: Married; ;
+Name: Pilar, place of Origin: Girona, marital status: Married; ;

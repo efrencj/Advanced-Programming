@@ -1,0 +1,6 @@
+Name: Nicol, place of Origin: Barcelona, marital status: Single
+Name: Ariel, place of Origin: Girona, marital status: Divorced
+Name: Kai, place of Origin: Girona, marital status: Married; ; 
+Name: Janis, place of Origin: Girona, marital status: Married; ; 
+Name: Noa, place of Origin: Lleida, marital status: Divorced; 
+Name: Sam, place of Origin: Lleida, marital status: Widowed; ; 

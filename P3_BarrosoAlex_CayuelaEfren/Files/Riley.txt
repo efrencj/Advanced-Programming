@@ -1,0 +1,6 @@
+Name: Riley, place of Origin: París, marital status: Single
+Name: Ona, place of Origin: Londres, marital status: Married; 
+Name: Eulàlia, place of Origin: Londres, marital status: Widowed; ; 
+Name: Nil, place of Origin: París, marital status: Married
+Name: Francesc, place of Origin: París, marital status: Divorced; ; 
+Name: Miquel, place of Origin: Londres, marital status: Divorced; ; 
